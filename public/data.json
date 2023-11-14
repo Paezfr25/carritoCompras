@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Iteligencia Emocional",
+        "author": "Daniel Goreman",
+        "price": 10,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_2X_670866-MLA31646310721_072019-F.webp",
+        "quanty": 1
+    },
+    {
+        "id": 2,
+        "name": "Piense y Hagase Rico",
+        "author": "Napoleon Hill",
+        "price": 12,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_2X_677615-MLA43815798577_102020-F.webp",
+        "quanty": 1
+
+    },
+    { 
+        "id": 3,
+        "name": "Las 48 Leyes del Poder",
+        "author": "Robert Greene",
+        "price": 14,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_2X_606720-MLA45482641596_042021-F.webp",
+        "quanty": 1
+
+    },
+    {
+        "id": 4,
+        "name": "Meditaciones",
+        "author": "Marco Aurelio",
+        "price": 8,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_2X_717159-MLA46016467620_052021-F.webp",
+        "quanty": 1
+    }
+   
+]  

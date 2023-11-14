@@ -1,0 +1,45 @@
+.menos {
+    cursor: pointer;
+    width: 6vh;
+    height: 6vh;
+    background-color: rgba(0, 255, 0,  0.7);
+    border-radius: 50%;
+    transition: background-color 0.3s;
+    
+}
+
+.cart-delete-button{
+   cursor: pointer;
+   width: 6vh;
+    height: 6vh;
+    border-radius: 25%;
+    background-color: rgb(176, 176, 177);
+    transition: background-color 0.3s;
+}
+
+.cart-delete-button:hover {
+    background-color: rgba(200, 200, 200, 1);
+}
+
+.menos:hover {
+background-color:  rgba(0, 200, 0,  1);;
+    
+}
+
+.mas {
+    cursor: pointer;
+    width: 6vh;
+    height: 6vh;
+    background-color: rgba(255, 0, 0,  0.7);
+    border-radius: 50%;
+    transition: background-color 0.3s;
+}
+
+.mas:hover {
+    background-color:rgba(200, 0, 0,  1);
+}
+
+.product {
+    font-weight: bold;
+    
+}
