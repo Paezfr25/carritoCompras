@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import TotalItems from './TotalItems';
 import { useContext } from "react";
 import { dataContext } from "./DataContext";
-import CartTotal from './CartTotal';
+
 
 
 const Navbar = () => {
